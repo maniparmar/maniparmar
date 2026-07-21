@@ -669,3 +669,23 @@ src="https://raw.githubusercontent.com/maniparmar/maniparmar/output/github-contr
 ⭐ **If you like my work, consider starring my repositories!**
 
 </div>
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source 
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/maniparmar/maniparmar/output/github-contribution-grid-snake-dark.svg">
+
+  <source 
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/maniparmar/maniparmar/output/github-contribution-grid-snake.svg">
+
+  <img 
+  alt="github contribution snake"
+  src="https://raw.githubusercontent.com/maniparmar/maniparmar/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
